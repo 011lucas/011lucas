@@ -1,18 +1,20 @@
-##Olá, eu sou o Lucas!
+## Olá, eu sou o Lucas!
 
-##
 
 <ul>
-  <li>🌱 Estudando desenvolvimento Front-End</li>
+  <li>📚 Estudando desenvolvimento Front-End</li>
   <li>📧 Contato: l.machadodesouza@outlook.com</li>
 </ul>
 
+</br>
 
 <div align="center">
   <a href="https://github.com/011luc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=011luc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=011luc&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=011luc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=011luc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  </br>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
